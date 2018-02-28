@@ -67,4 +67,4 @@ export function redo(){
     return{
         type: REDO
     };
-}
+};
